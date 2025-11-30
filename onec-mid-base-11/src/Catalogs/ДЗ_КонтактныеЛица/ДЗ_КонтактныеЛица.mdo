@@ -102,11 +102,11 @@
   <fullTextSearch>Use</fullTextSearch>
   <objectPresentation>
     <key>ru</key>
-    <value>КонтактноеЛицо</value>
+    <value>Контактное лицо</value>
   </objectPresentation>
   <listPresentation>
     <key>ru</key>
-    <value>СписокКонтактныхЛиц</value>
+    <value>Список контактных лиц</value>
   </listPresentation>
   <levelCount>2</levelCount>
   <foldersOnTop>true</foldersOnTop>
